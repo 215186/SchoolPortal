@@ -1,0 +1,22 @@
+[Functionalities]
+	- CRUD (Create, Read, Update, Delete)
+	- Sorting & filtering
+		* tags
+	- Search
+	- View result
+	
+[What needs to be in it]
+	+ Name: "EdPortal"
+	+ Code/language used: html, css
+	
+[To learn]
+	- How to make accounts with html.
+	- How to personally store data. (probably a database)
+	- How to add my own html file(s) to my raspberry pi.
+	
+[Deadline]
+	+ Make GitHub account, repo, "docs" folder, add Tox.
+	+ Get webserver running on Pi.
+	+ Dynamic DNS, register and link Pi to router, send URL to Tox.
+	WRITTEN: 3rd of october, 10:41. 
+	DEADLINE: 4th of october, 16:00.
