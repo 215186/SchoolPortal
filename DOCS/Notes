@@ -7,16 +7,16 @@
 	
 [What needs to be in it]
 	+ Name: "EdPortal"
-	+ Code/language used: html, css
+	+ Code/language used: html, css, javascript?
 	
 [To learn]
 	- How to make accounts with html.
 	- How to personally store data. (probably a database)
-	- How to add my own html file(s) to my raspberry pi.
+
+[To Do]
+	+ Dynamic DNS, register and link Pi to router, send URL to Tox. (TOO LATE, DO ASAP)
 	
-[Deadline]
-	+ Make GitHub account, repo, "docs" folder, add Tox.
-	+ Get webserver running on Pi.
-	+ Dynamic DNS, register and link Pi to router, send URL to Tox.
-	WRITTEN: 3rd of october, 10:41. 
-	DEADLINE: 4th of october, 16:00.
+[Done]
+	+ Learning how to add html file(s) to my raspberry pi.
+	+ Make GitHub account, repo, "docs" folder, add Tox. (Done 4th of October)
+	+ Get webserver running on Pi. (Done 4th of October)
