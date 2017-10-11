@@ -12,11 +12,3 @@
 [To learn]
 	- How to make accounts with html.
 	- How to personally store data. (probably a database)
-
-[To Do]
-	+ Dynamic DNS, register and link Pi to router, send URL to Tox. (TOO LATE, DO ASAP)
-	
-[Done]
-	+ Learning how to add html file(s) to my raspberry pi.
-	+ Make GitHub account, repo, "docs" folder, add Tox. (Done 4th of October)
-	+ Get webserver running on Pi. (Done 4th of October)
