@@ -1,0 +1,38 @@
+body {
+  background-image: url(/images/bg_lightwoodfloor.jpg);
+}
+
+.button {
+  background-color: ForestGreen;
+  border-radius: 5px;
+  color: white;
+  display: inline-block;
+  margin-bottom: 10px;
+  margin-left: 20px;
+  margin-top: 10px;
+  padding: 10px;
+}
+
+.button:focus,
+.button:hover {
+  background-color: DarkGreen;
+  color: white;
+}
+
+header {
+  border: 2px solid black;
+  padding: 20px;
+}
+
+header a {
+  font-size: 150%;
+}
+
+header h1 {
+  color: black;
+}
+
+header .row {
+  align-items: center;
+  display: flex;
+}
